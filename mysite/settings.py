@@ -25,7 +25,7 @@ SECRET_KEY = 't^kqysf(@=rks1u_ouib0qw-)iqs^u1v)fwrug5j=uxzy+2$g='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Lisauce>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Lisauce.pythonanywhere.com']
 
 
 # Application definition
